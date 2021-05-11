@@ -1,0 +1,7 @@
+.clients__list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    margin: 72px 0 100px 0;
+}

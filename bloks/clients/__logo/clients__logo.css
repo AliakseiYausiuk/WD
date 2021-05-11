@@ -1,0 +1,9 @@
+.clients__logo {
+    max-width: 255px;
+}
+
+@media (max-width: 1600px) {
+    .clients__logo {
+        max-width: 150px;
+    }
+}

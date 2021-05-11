@@ -1,0 +1,9 @@
+.footer__author {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+}

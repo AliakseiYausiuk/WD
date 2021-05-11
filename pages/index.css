@@ -1,0 +1,92 @@
+/* vendor */
+@import url('../vendor/normalize.css');
+
+/* page */
+@import url('../bloks/page/page.css');
+
+/* header */
+
+@import url('../bloks/header/__content/header__content.css');
+@import url('../bloks/header/__list/header__list.css');
+@import url('../bloks/header/__lists/header__lists.css');
+@import url('../bloks/header/header.css');
+@import url('../bloks/header/__text/header__text.css');
+@import url('../bloks/header/__img/header__img.css');
+@import url('../bloks/header/__title/header__title.css');
+@import url('../bloks/header/__nav/header__nav.css');
+@import url('../bloks/header/__info/header__info.css');
+
+/* logo */
+
+@import url('../bloks/logo/logo.css');
+
+/* btn */
+
+@import url('../bloks/btn/btn.css');
+
+/* main */
+
+@import url('../bloks/main/main.css');
+
+/* about-me */
+
+@import url('../bloks/about-me/about-me.css');
+@import url('../bloks/about-me/__title/about-me__title.css');
+@import url('../bloks/about-me/__text/about-me__text.css');
+
+/* project */
+
+@import url('../bloks/project/project.css');
+@import url('../bloks/project/__img/project__img.css');
+@import url('../bloks/project/__list/project__list.css');
+@import url('../bloks/project/__lists/project__lists.css');
+@import url('../bloks/project/__text/project__text.css');
+@import url('../bloks/project/__item/project__item.css');
+
+/* skills */
+
+@import url('../bloks/skills/__img/skills__img.css');
+@import url('../bloks/skills/__list/skills__list.css');
+@import url('../bloks/skills/__lists/skills__lists.css');
+@import url('../bloks/skills/__lists/_title/skills__lists_title.css');
+@import url('../bloks/skills/__progress/skills__progress.css');
+@import url('../bloks/skills/skills.css');
+@import url('../bloks/skills/__item/skills__item.css');
+
+/* video */
+
+@import url('../bloks/video/__frame/video__frame.css');
+@import url('../bloks/video/__text/video__text.css');
+@import url('../bloks/video/__title/video__title.css');
+@import url('../bloks/video/video.css');
+
+/* background-foto */
+@import url('../bloks/background-foto/background-foto.css');
+
+/* clients */
+
+@import url('../bloks/clients/__list/clients__list.css');
+@import url('../bloks/clients/__lists/clients__lists.css');
+@import url('../bloks/clients/__logo/clients__logo.css');
+@import url('../bloks/clients/clients.css');
+
+/* form-item */
+
+@import url('../bloks/form-item/__text/form-item__text.css');
+@import url('../bloks/form-item/__title/form-item__title.css');
+@import url('../bloks/form-item/form-item.css');
+
+/* form */
+
+@import url('../bloks/form/__btn/form__btn.css');
+@import url('../bloks/form/__input/form__input.css');
+@import url('../bloks/form/__textarea/form__textarea.css');
+@import url('../bloks/form/form.css');
+
+/* footer */
+
+@import url('../bloks/footer/__text/footer__text.css');
+@import url('../bloks/footer/__social/footer__social.css');
+@import url('../bloks/footer/__author/footer__author.css');
+@import url('../bloks/footer/footer.css');
+@import url('../bloks/footer/__icon/footer__icon.css');

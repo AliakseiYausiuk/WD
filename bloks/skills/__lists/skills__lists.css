@@ -1,0 +1,6 @@
+.skills__lists {
+    margin: 0 0 30px 0;
+}
+.skills__lists:last-child{
+    margin: 0;
+}

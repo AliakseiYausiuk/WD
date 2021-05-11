@@ -1,0 +1,6 @@
+.project {
+    min-width: 100%;
+    background-color: #34547A;
+    display: flex;
+    justify-content: center;
+}

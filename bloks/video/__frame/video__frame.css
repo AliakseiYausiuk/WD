@@ -1,0 +1,10 @@
+.video__frame {
+    margin: 0 0 100px 0;
+}
+
+@media (max-width: 1280px) {
+    .video__frame {
+        max-width: 854px;
+        max-height: 480px;
+    }
+}

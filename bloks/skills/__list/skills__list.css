@@ -1,0 +1,18 @@
+.skills__list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    max-width: 445px;
+    min-width: 445px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+@media (max-width: 1280px) {
+    .skills__list {
+        max-width: 220px;
+        min-width: 220px;
+    }
+}

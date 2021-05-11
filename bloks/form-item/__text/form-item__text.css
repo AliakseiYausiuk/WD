@@ -1,0 +1,9 @@
+.form-item__text {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #727272;
+  max-width: 540px;
+  margin: 0 0 65px 0;
+}
