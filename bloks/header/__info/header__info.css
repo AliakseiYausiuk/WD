@@ -2,3 +2,13 @@
     max-width: 540px;
     margin: 0 0 0 143px;
 }
+
+@media (max-width: 700px) {
+    .header__info {
+        margin: 50px 0 0 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}

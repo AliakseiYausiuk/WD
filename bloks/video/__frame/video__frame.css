@@ -8,3 +8,28 @@
         max-height: 480px;
     }
 }
+
+@media (max-width: 854px) {
+    .video__frame {
+        max-width: 700px;
+        max-height: 480px;
+    }
+}
+
+@media (max-width: 707px) {
+    .video__frame {
+        max-width: 480px;
+        max-height: 480px;
+    }
+}
+
+@media (max-width: 540px) {
+    .video__frame {
+        max-width: 320px;
+        max-height: 320px;
+    }
+}
+
+
+
+

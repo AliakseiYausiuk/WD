@@ -4,3 +4,11 @@
     margin: 100px 0;
     display: flex;
 }
+
+@media (max-width: 601px) {
+    .project__list {
+        margin: 50px 0;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

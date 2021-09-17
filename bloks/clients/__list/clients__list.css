@@ -5,3 +5,11 @@
     display: flex;
     margin: 72px 0 100px 0;
 }
+
+@media (max-width: 695px) {
+    .clients__list {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+}

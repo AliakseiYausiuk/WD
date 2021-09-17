@@ -3,3 +3,10 @@
     align-items: center;
     padding: 100px 0;
 }
+
+@media (max-width: 600px) {
+    .skills {
+        flex-direction: column;
+        justify-content: center;
+    }
+}

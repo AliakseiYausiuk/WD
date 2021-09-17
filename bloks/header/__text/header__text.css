@@ -5,3 +5,9 @@
     line-height: 26px;
     color: #727272;
 }
+
+@media (max-width: 581px) {
+    .header__text {
+        text-align: center;
+    }
+}
